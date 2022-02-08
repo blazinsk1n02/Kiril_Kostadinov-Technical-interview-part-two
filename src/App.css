@@ -1,0 +1,16 @@
+label {
+  text-transform: capitalize;
+  font-weight: bold;
+}
+
+.ant-collapse-content-box .ant-input {
+  margin-bottom: 10px;
+}
+
+.btn-container {
+  margin-top: 10px;
+}
+
+.btn-container .ant-btn {
+  margin-right: 5px;
+}
